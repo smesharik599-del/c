@@ -2,14 +2,14 @@
     background-color: white;
     color: white;
 }
-.b2-1-b-t-b-c, .b2-2-b-t-b-c, .b2-3-b-t-b-c, .b2-4-b-t-b-c, .b3-1-b-t-b-c, .b3-2-b-t-b-c, .b3-3-b-t-b-c, .f-b-t-b-c, .b2-1-b-t-b-c-tr, .b2-2-b-t-b-c-tr, .b2-3-b-t-b-c-tr, .b2-4-b-t-b-c-tr, .b3-1-b-t-b-c-tr, .b3-2-b-t-b-c-tr, .b3-3-b-t-b-c-tr, .f-b-t-b-c-tr {
+.b2-1-b-t-b-c, .b2-2-b-t-b-c, .b2-3-b-t-b-c, .b2-4-b-t-b-c, .b3-1-b-t-b-c, .b3-2-b-t-b-c, .b3-3-b-t-b-c, .f-b-t-b-c, .b2-1-b-t-b-c-tr, .b2-2-b-t-b-c-tr, .b2-3-b-t-b-c-tr, .b2-4-b-t-b-c-tr, .b3-1-b-t-b-c-tr, .b3-2-b-t-b-c-tr, .b3-3-b-t-b-c-tr, .f-b-t-b-c-tr,  .b4-1-b-t-tr-c, .b4-1-b-t-b-c-tr, .b4-1-b-t-b-c{
     color:#E0E0E0;
 }
 section{
     margin-bottom: 200px;
 }
 
-.f-b1, .f-b-t-b, .b2-1-b, .b2-1-b-t-b, .b2-2-b, .b2-2-b-t-b, .b2-3-b, .b2-3-b-t-b, .b2-4-b, .b2-4-b-t-b, .b3-1-b, .b3-1-b-t-b, .b3-2-b, .b3-2-b-t-b, .b3-3-b, .b3-3-b-t-b {
+.f-b1, .f-b-t-b, .b2-1-b, .b2-1-b-t-b, .b2-2-b, .b2-2-b-t-b, .b2-3-b, .b2-3-b-t-b, .b2-4-b, .b2-4-b-t-b, .b3-1-b, .b3-1-b-t-b, .b3-2-b, .b3-2-b-t-b, .b3-3-b, .b3-3-b-t-b, .b4-1-b, .b4-1-b-t {
     display: flex;
     margin-bottom: 20px;
     gap: 20px;
